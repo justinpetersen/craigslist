@@ -1,0 +1,32 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+img.polaroid {
+	border: 3px solid #fff;
+	-moz-box-shadow: 0px 2px 4px #999;
+	-webkit-box-shadow: 0px 2px 4px #999;
+	box-shadow: 0px 2px 4px #999;
+	margin-right: 8px;
+
+	/* scale images to width */
+    horizontal-align: middle;
+    width: 100%;
+	min-height: 70px;
+	
+	/* animated loading spinner */
+	background: url('../images/loading.gif') no-repeat center;
+}
+
+.center-align {
+	text-align: center;
+}
+
+#item-title {
+	font-size: small;
+}
+
+#scale-down {
+    width: 70px;
+}

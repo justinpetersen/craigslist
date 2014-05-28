@@ -1,0 +1,542 @@
+﻿{
+    "text": "Categories",
+    "items": [{
+        "text": "community",
+        "items": [{
+            "text": "activities",
+            "leaf": true,
+			"path": "act"
+        },{
+            "text": "artists",
+            "leaf": true,
+			"path": "ats"
+        },{
+            "text": "childcare",
+            "leaf": true,
+			"path": "kid"
+        },{
+            "text": "general",
+            "leaf": true,
+			"path": "com"
+        },{
+            "text": "groups",
+            "leaf": true,
+			"path": "grp"
+        },{
+            "text": "pets",
+            "leaf": true,
+			"path": "pet"
+        },{
+            "text": "events",
+            "leaf": true,
+			"path": "cal"
+        },{
+            "text": "lost+found",
+            "leaf": true,
+			"path": "laf"
+        },{
+            "text": "musicians",
+            "leaf": true,
+			"path": "muc"
+        },{
+            "text": "local news",
+            "leaf": true,
+			"path": "vnn"
+        },{
+            "text": "politics",
+            "leaf": true,
+			"path": "pol"
+        },{
+            "text": "rideshare",
+            "leaf": true,
+			"path": "rid"
+        },{
+            "text": "volunteers",
+            "leaf": true,
+			"path": "vol"
+        }]
+    },{
+        "text": "personals",
+        "items": [{
+            "text": "strictly platonic",
+            "leaf": true,
+			"path": "stp"
+
+        },{
+            "text": "women seek women",
+            "leaf": true,
+			"path": "w4w"
+
+        },{
+            "text": "women seeking men",
+            "leaf": true,
+			"path": "w4m"
+
+        },{
+            "text": "men seeking women",
+            "leaf": true,
+			"path": "m4w"
+
+        },{
+            "text": "men seeking men",
+            "leaf": true,
+			"path": "m4m"
+
+        },{
+            "text": "misc romance",
+            "leaf": true,
+			"path": "msr"
+
+        },{
+            "text": "casual encounters",
+            "leaf": true,
+			"path": "cas"
+
+        },{
+            "text": "missed connections",
+            "leaf": true,
+			"path": "mis"
+
+        },{
+            "text": "rants and raves",
+            "leaf": true,
+			"path": "rnr"
+
+        }]
+    },{
+        "text": "housing",
+        "items": [{
+            "text": "apts / housing",
+            "leaf": true,
+			"path": "apa"
+        },{
+            "text": "rooms / shared",
+            "leaf": true,
+			"path": "roo"
+        },{
+            "text": "sublets / temporary",
+            "leaf": true,
+			"path": "sub"
+        },{
+            "text": "housing wanted",
+            "leaf": true,
+			"path": "hsw"
+        },{
+            "text": "housing swap",
+            "leaf": true,
+			"path": "swp"
+        },{
+            "text": "vacation rentals",
+            "leaf": true,
+			"path": "vac"
+        },{
+            "text": "parking / storage",
+            "leaf": true,
+			"path": "prk"
+        },{
+            "text": "office / commercial",
+            "leaf": true,
+			"path": "off"
+        },{
+            "text": "real estate for sale",
+            "leaf": true,
+			"path": "rea"
+        }]
+    },{
+        "text": "for sale",
+        "items": [{
+            "text": "appliances",
+            "leaf": true,
+			"path": "app"
+        },{
+            "text": "antiques",
+            "leaf": true,
+			"path": "atq"
+        },{
+            "text": "barter",
+            "leaf": true,
+			"path": "bar"
+        },{
+            "text": "bikes",
+            "leaf": true,
+			"path": "bik"
+        },{
+            "text": "boats",
+            "leaf": true,
+			"path": "boa"
+        },{
+            "text": "books",
+            "leaf": true,
+			"path": "bks"
+        },{
+            "text": "business",
+            "leaf": true,
+			"path": "bfs"
+        },{
+            "text": "computer",
+            "leaf": true,
+			"path": "sys"
+        },{
+            "text": "free",
+            "leaf": true,
+			"path": "zip"
+        },{
+            "text": "furniture",
+            "leaf": true,
+			"path": "fua"
+        },{
+            "text": "general",
+            "leaf": true,
+			"path": "for"
+        },{
+            "text": "jewelry",
+            "leaf": true,
+			"path": "jwl"
+        },{
+            "text": "materials",
+            "leaf": true,
+			"path": "mat"
+        },{
+            "text": "rvs",
+            "leaf": true,
+			"path": "rvs"
+        },{
+            "text": "sporting",
+            "leaf": true,
+			"path": "spo"
+        },{
+            "text": "tickets",
+            "leaf": true,
+			"path": "tia"
+        },{
+            "text": "tools",
+            "leaf": true,
+			"path": "tls"
+        },{
+            "text": "wanted",
+            "leaf": true,
+			"path": "wan"
+        },{
+            "text": "arts+crafts",
+            "leaf": true,
+			"path": "art"
+        },{
+            "text": "auto parts",
+            "leaf": true,
+			"path": "pts"
+        },{
+            "text": "baby+kids",
+            "leaf": true,
+			"path": "bab"
+        },{
+            "text": "beauty+hlth",
+            "leaf": true,
+			"path": "hab"
+        },{
+            "text": "cars+trucks",
+            "leaf": true,
+			"path": "cta"
+        },{
+            "text": "cds/dvd/vhs",
+            "leaf": true,
+			"path": "emd"
+        },{
+            "text": "cell phones",
+            "leaf": true,
+			"path": "mob"
+        },{
+            "text": "clothes+acc",
+            "leaf": true,
+			"path": "clo"
+        },{
+            "text": "collectibles",
+            "leaf": true,
+			"path": "clt"
+        },{
+            "text": "electronics",
+            "leaf": true,
+			"path": "ele"
+        },{
+            "text": "farm+garden",
+            "leaf": true,
+			"path": "grd"
+        },{
+            "text": "garage sale",
+            "leaf": true,
+			"path": "gms"
+        },{
+            "text": "household",
+            "leaf": true,
+			"path": "hsh"
+        },{
+            "text": "motorcycles",
+            "leaf": true,
+			"path": "mca"
+        },{
+            "text": "music instr",
+            "leaf": true,
+			"path": "msg"
+        },{
+            "text": "photo+video",
+            "leaf": true,
+			"path": "pho"
+        },{
+            "text": "toys+games",
+            "leaf": true,
+			"path": "tag"
+        },{
+            "text": "video gaming",
+            "leaf": true,
+			"path": "vgm"
+        }]
+    },{
+        "text": "services",
+        "items": [{
+            "text": "beauty",
+            "leaf": true,
+			"path": "bts"
+        },{
+            "text": "creative",
+            "leaf": true,
+			"path": "crs"
+        },{
+            "text": "computer",
+            "leaf": true,
+			"path": "cps"
+        },{
+            "text": "cycle",
+            "leaf": true,
+			"path": "cys"
+        },{
+            "text": "event",
+            "leaf": true,
+			"path": "evs"
+        },{
+            "text": "financial",
+            "leaf": true,
+			"path": "fns"
+        },{
+            "text": "legal",
+            "leaf": true,
+			"path": "lgs"
+        },{
+            "text": "lessons",
+            "leaf": true,
+			"path": "lss"
+        },{
+            "text": "marine",
+            "leaf": true,
+			"path": "mas"
+        },{
+            "text": "pet",
+            "leaf": true,
+			"path": "pas"
+        },{
+            "text": "automotive",
+            "leaf": true,
+			"path": "aos"
+        },{
+            "text": "farm+garden",
+            "leaf": true,
+			"path": "fgs"
+        },{
+            "text": "household",
+            "leaf": true,
+			"path": "hss"
+        },{
+            "text": "labor/move",
+            "leaf": true,
+			"path": "lbs"
+        },{
+            "text": "skill'd trade",
+            "leaf": true,
+			"path": "sks"
+        },{
+            "text": "real estate",
+            "leaf": true,
+			"path": "rts"
+        },{
+            "text": "sm biz ads",
+            "leaf": true,
+			"path": "biz"
+        },{
+            "text": "therapeutic",
+            "leaf": true,
+			"path": "thp"
+        },{
+            "text": "travel/vac",
+            "leaf": true,
+			"path": "trv"
+        },{
+            "text": "write/ed/tr8",
+            "leaf": true,
+			"path": "wet"
+        }]
+    },{
+        "text": "jobs",
+        "items": [{
+            "text": "accounting+finance",
+            "leaf": true,
+			"path": "acc"
+        },{
+            "text": "admin / office",
+            "leaf": true,
+			"path": "ofc"
+        },{
+            "text": "arch / engineering",
+            "leaf": true,
+			"path": "egr"
+        },{
+            "text": "art / media / design",
+            "leaf": true,
+			"path": "med"
+        },{
+            "text": "biotech / science",
+            "leaf": true,
+			"path": "sci"
+        },{
+            "text": "business / mgmt",
+            "leaf": true,
+			"path": "bus"
+        },{
+            "text": "customer service",
+            "leaf": true,
+			"path": "csr"
+        },{
+            "text": "education",
+            "leaf": true,
+			"path": "edu"
+        },{
+            "text": "food / bev / hosp",
+            "leaf": true,
+			"path": "fbh"
+        },{
+            "text": "general labor",
+            "leaf": true,
+			"path": "lab"
+        },{
+            "text": "government",
+            "leaf": true,
+			"path": "gov"
+        },{
+            "text": "human resources",
+            "leaf": true,
+			"path": "hum"
+        },{
+            "text": "internet engineers",
+            "leaf": true,
+			"path": "eng"
+        },{
+            "text": "legal / paralegal",
+            "leaf": true,
+			"path": "lgl"
+        },{
+            "text": "manufacturing",
+            "leaf": true,
+			"path": "mnu"
+        },{
+            "text": "marketing / pr / ad",
+            "leaf": true,
+			"path": "mar"
+        },{
+            "text": "medical / health",
+            "leaf": true,
+			"path": "hea"
+        },{
+            "text": "nonprofit sector",
+            "leaf": true,
+			"path": "npo"
+        },{
+            "text": "real estate",
+            "leaf": true,
+			"path": "rej"
+        },{
+            "text": "retail / wholesale",
+            "leaf": true,
+			"path": "ret"
+        },{
+            "text": "sales / biz dev",
+            "leaf": true,
+			"path": "sls"
+        },{
+            "text": "salon / spa / fitness",
+            "leaf": true,
+			"path": "spa"
+        },{
+            "text": "security",
+            "leaf": true,
+			"path": "sec"
+        },{
+            "text": "skilled trade / craft",
+            "leaf": true,
+			"path": "trd"
+        },{
+            "text": "software / qa / dba",
+            "leaf": true,
+			"path": "sof"
+        },{
+            "text": "systems / network",
+            "leaf": true,
+			"path": "sad"
+        },{
+            "text": "technical support",
+            "leaf": true,
+			"path": "tch"
+        },{
+            "text": "transport",
+            "leaf": true,
+			"path": "trp"
+        },{
+            "text": "tv / film / video",
+            "leaf": true,
+			"path": "tfr"
+        },{
+            "text": "web / info design",
+            "leaf": true,
+			"path": "web"
+        },{
+            "text": "writing / editing",
+            "leaf": true,
+			"path": "wri"
+        },{
+            "text": "[ETC]",
+            "leaf": true,
+			"path": "etc"
+        }]
+    },{
+        "text": "gigs",
+        "items": [{
+            "text": "crew",
+            "leaf": true,
+			"path": "cwg"
+        },{
+            "text": "event",
+            "leaf": true,
+			"path": "evg"
+        },{
+            "text": "labor",
+            "leaf": true,
+			"path": "lbg"
+        },{
+            "text": "talent",
+            "leaf": true,
+			"path": "tlg"
+        },{
+            "text": "computer",
+            "leaf": true,
+			"path": "cpg"
+        },{
+            "text": "creative",
+            "leaf": true,
+			"path": "crg"
+        },{
+            "text": "domestic",
+            "leaf": true,
+			"path": "dmg"
+        },{
+            "text": "writing",
+            "leaf": true,
+			"path": "wrg"
+        }]
+    }]
+}

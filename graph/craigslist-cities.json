@@ -1,0 +1,164 @@
+﻿{
+    "text": "Cities",
+    "items": [{
+        "text": "us cities",
+        "items": [{
+            "text": "atlanta",
+            "leaf": true,
+			"subdomain": "atlanta"
+        },{
+            "text": "austin",
+            "leaf": true,
+			"subdomain": "austin"
+        },{
+            "text": "boston",
+            "leaf": true,
+			"subdomain": "boston"
+        },{
+            "text": "chicago",
+            "leaf": true,
+			"subdomain": "chicago"
+        },{
+            "text": "dallas",
+            "leaf": true,
+			"subdomain": "dallas"
+        },{
+            "text": "denver",
+            "leaf": true,
+			"subdomain": "denver"
+        },{
+            "text": "detroit",
+            "leaf": true,
+			"subdomain": "detroit"
+        },{
+            "text": "houston",
+            "leaf": true,
+			"subdomain": "houston"
+        },{
+            "text": "las vegas",
+            "leaf": true,
+			"subdomain": "lasvegas"
+        },{
+            "text": "los angeles",
+            "leaf": true,
+			"subdomain": "losangeles"
+        },{
+            "text": "miami",
+            "leaf": true,
+			"subdomain": "miami"
+        },{
+            "text": "minneapolis",
+            "leaf": true,
+			"subdomain": "minneapolis"
+        },{
+            "text": "new york",
+            "leaf": true,
+			"subdomain": "newyork"
+        },{
+            "text": "orange co",
+            "leaf": true,
+			"subdomain": "orangecounty"
+        },{
+            "text": "philadelphia",
+            "leaf": true,
+			"subdomain": "philadelphia"
+        },{
+            "text": "phoenix",
+            "leaf": true,
+			"subdomain": "phoenix"
+        },{
+            "text": "portland",
+            "leaf": true,
+			"subdomain": "portland"
+        },{
+            "text": "raleigh",
+            "leaf": true,
+			"subdomain": "raleigh"
+        },{
+            "text": "sacramento",
+            "leaf": true,
+			"subdomain": "sacramento"
+        },{
+            "text": "san diego",
+            "leaf": true,
+			"subdomain": "sandiego"
+        },{
+            "text": "seattle",
+            "leaf": true,
+			"subdomain": "seattle"
+        },{
+            "text": "sf bayarea",
+            "leaf": true,
+			"subdomain": "sfbay"
+        },{
+            "text": "wash dc",
+            "leaf": true,
+			"subdomain": "washingtondc"
+        }]
+    },{
+        "text": "us states",
+        "items": [{
+            "text": "alabama",
+			"items": [{
+				"text": "auburn",
+				"leaf": true,
+				"subdomain": "auburn"
+			},{
+				"text": "birmingham",
+				"leaf": true,
+				"subdomain": "bham"
+			},{
+				"text": "columbus, GA",
+				"leaf": true,
+				"subdomain": "columbusga"
+			},{
+				"text": "dothan",
+				"leaf": true,
+				"subdomain": "dothan"
+			},{
+				"text": "florence / muscle shoals",
+				"leaf": true,
+				"subdomain": "shoals"
+			},{
+				"text": "gadsden-anniston",
+				"leaf": true,
+				"subdomain": "gadsden"
+			},{
+				"text": "huntsville / decatur",
+				"leaf": true,
+				"subdomain": "huntsville"
+			},{
+				"text": "mobile",
+				"leaf": true,
+				"subdomain": "mobile"
+			},{
+				"text": "montgomery",
+				"leaf": true,
+				"subdomain": "montgomery"
+			},{
+				"text": "tuscaloosa",
+				"leaf": true,
+				"subdomain": "tuscaloosa"
+			}]
+		},{
+            "text": "alaska",
+			"items": [{
+				"text": "anchorage / mat-su",
+				"leaf": true,
+				"subdomain": "anchorage"
+			},{
+				"text": "fairbanks",
+				"leaf": true,
+				"subdomain": "fairbanks"
+			},{
+				"text": "kenai peninsula",
+				"leaf": true,
+				"subdomain": "kenai"
+			},{
+				"text": "southeast alaska",
+				"leaf": true,
+				"subdomain": "juneau"
+			}]
+		}]
+    }]
+}
